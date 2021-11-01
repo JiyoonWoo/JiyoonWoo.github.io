@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "우지윤"
-  avatar           : "/assets/images/20617 우지윤(1).jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/20617 우지윤 (1).jpg"
   bio              : "행복한 프로그래밍 교육자"
   location         : "대한민국, 용인"
   email            : "21-20617@hafs.hs.kr"
