@@ -1,10 +1,10 @@
 ---
-layout: single
-title: "조건문"
-toc: true
-toc_sticky: true
-toc_labe: "페이지 주요 목차"
-catergories: "형성평가"
+layout: single 
+title: "조건문" 
+toc: true 
+toc_sticky: true 
+toc_labe: "페이지 주요 목차" 
+catergories: "형성평가" 
 ---
 
 ### 01. 사주보기
