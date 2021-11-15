@@ -1,6 +1,9 @@
 ---
+layout: single
+title: "조건문"
 toc: true
 toc_sticky: true
 toc_labe: "페이지 주요 목차"
 catergories: "형성평가"
 ---
+
